@@ -1,0 +1,1 @@
+# solaris-11-sparc-stig-baseline
